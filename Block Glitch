@@ -1,0 +1,41 @@
+while true do 
+    wait(7)  
+        
+    wait(1)
+    local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+    local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+    local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+
+end
+
+if true then do 
+        local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+    local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+    local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Package"):WaitForChild("Events"):WaitForChild("block"):InvokeServer(unpack(args))
+end
+end
+    
